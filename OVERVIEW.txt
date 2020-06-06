@@ -4,9 +4,12 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE: Spolf
+PURPOSE OF PROJECT: To make a game space game with gravity and physics.
+VERSION or DATE: v1.0
+HOW TO START THIS PROJECT: Load it up and press Run.
+AUTHORS: Jackson Roberts, Emerson Coskey, Jack Blatcher
 USER INSTRUCTIONS:
+Tutorial is in game.
+TO MR. GUSTIN:
+Sorry we didn't do the commits on this repository, we had already started our own and didn't realize this one was here. We can share with you the repo we used if you want to see our commit history, however all of the commits are labeled as from Jackson Roberts because we used Atom Teletype to do realtime simultaneous file editing.
